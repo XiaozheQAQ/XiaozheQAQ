@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=#FFF&height=200&section=header&text=XiaozheQAQ&fontSize=40&fontAlignY=35&animation=fadeIn" />  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:CE1D2D,100:6C63FF&height=200&section=header&text=XiaozheQAQ&fontSize=40&fontAlignY=35&animation=fadeIn" />  
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=XiaozheQAQ&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 

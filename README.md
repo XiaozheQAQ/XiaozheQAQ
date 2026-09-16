@@ -22,10 +22,6 @@
   <img src="https://streak-stats.demolab.com?user=XiaozheQAQ&hide_border=true&locale=zh_Hans" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XiaozheQAQ&hide_border=true&area=true" />
-</p>
-
 ---
 
 ## 📫 联系我

@@ -19,7 +19,7 @@
 ## 📊 GitHub 数据
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=XiaozheQAQ&hide_border=true&locale=zh_Hans" />
+  <img src="./assets/contributions.svg" alt="GitHub Contribution Graph" />
 </p>
 
 ---
